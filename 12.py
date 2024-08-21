@@ -1,6 +1,3 @@
-
-main.py
-
 from parsers import parse
 import random
 
